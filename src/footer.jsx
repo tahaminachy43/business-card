@@ -1,12 +1,8 @@
 export default function Footer(){
-    <div>
+    
 
-        <img/>
-        <img/>
-        <img/>
-        <img/>
-        <img/>
+        <p>© 2021 Moon development. All rights reserved.</p>
 
-    </div>
+   
     
 }

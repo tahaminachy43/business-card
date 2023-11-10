@@ -1,5 +1,5 @@
 body{
-  background-color: #153243;
+  background-color:#0F1F2E ;
 }
 
 .main{
@@ -9,7 +9,7 @@ body{
   width: 50%;
   margin: 0 auto;
   position: absolute;
-  background-color: #284B63;
+  background-color: #153243;
   padding: 10% 0;
 
 }
@@ -17,9 +17,16 @@ body{
 .content > h3, .content > h5, .content > p{
   display: flex;
   margin:5px 0px;
+  color: #F4F9E9;
   
   justify-content: center;
 }
+
+.content > h5{
+  color: #B4B8AB;
+}
+
+
 
 .email{
   display: flex;
@@ -38,6 +45,22 @@ body{
 .email > p{
   padding: 0%;
   margin: 0%;
+}
+
+.about{
+  padding: 10px 30px;;
+  justify-content: center;
+}
+
+.about > h3{
+  margin: 20px 0px 0px 0px;
+  color: white;
+}
+
+.about > p{
+  margin: 0px;
+  padding: 10px 0px;
+  color: #EEF0EB;
 }
 
 
