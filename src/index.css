@@ -1,0 +1,25 @@
+body{
+  background-color: #153243;
+}
+
+.main{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  margin: 0 auto;
+  position: absolute;
+  background-color: #284B63;
+  padding: 10% 0;
+
+}
+
+.content > h3, .content > h5, .content > p{
+  display: flex;
+  margin:5px 0px;
+  
+  justify-content: center;
+}
+
+
+
