@@ -27,12 +27,20 @@ body{
   justify-content: center;
   background-color: white;
   
-  padding: 5px 10px;
+  padding: 5px 0px;
+  border-radius: 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 200px;
+  margin: auto;
 }
 
-.smallimage{
-  padding: 0px;
-  margin: 0px;
-  
+
+.email > p{
+  padding: 0%;
+  margin: 0%;
 }
+
+
+
+
 

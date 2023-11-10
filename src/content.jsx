@@ -7,7 +7,7 @@ export default function Content(){
                 <h5>Frontend Developer</h5>
                 <p> tahaminamostafa.chow@ucalgary.ca</p>
                 <div className="email">
-                    <img src="./assets/606735_email_2048x2048.png" className="smallimage"/>
+                    
                     <p>Email</p>
                 </div>
             </div>
